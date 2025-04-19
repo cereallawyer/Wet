@@ -1,0 +1,9 @@
+{
+  "name": "HerdMate",
+  "short_name": "HerdMate",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f1f7f4",
+  "theme_color": "#8cbfa4",
+  "icons": []
+}
